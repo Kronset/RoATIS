@@ -1,4 +1,7 @@
 # RoATIS
+> [!IMPORTANT]
+> Development of RoATIS is in very early stage!
+> 
 ![ss](https://media.discordapp.net/attachments/1119182711584731247/1267850724692459580/image.png?ex=66aa4980&is=66a8f800&hm=128b81068851ec8c3b0aba0b6a6262460dcacebaad2b53036c1725a501f12438&=&format=webp&quality=lossless)
 
 # About
@@ -13,7 +16,4 @@ You can contact me on discord @kronset_
 
 # Version
 Current version number is 1.0.0 Last update: 30/07/2024
-
-> [!IMPORTANT]
-> Development of RoATIS is in very early stage!
 
