@@ -4,5 +4,15 @@
 # What's RoATIS?
 RoATIS was created to make life easier for Roblox air traffic controllers! The program is currently in BETA version and provides only basic functions such as generating ATIS based on the provided data.
 
+# Features
+- Make own ATIS message to improve realism on your session!
+- Generated ATIS is roblox-friendly wich mean that roblox will not delete your message!
+
 > [!WARNING]
 > RoATIS is currently in early BETA!
+
+Contact: Discord: @kronset_
+
+Last Updated 30/07/2024
+
+
