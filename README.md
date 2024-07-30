@@ -15,5 +15,5 @@ RoATIS was created to make life easier for Roblox air traffic controllers! The p
 You can contact me on discord @kronset_
 
 # Version
-Current version number is 1.0.0 Last update: 30/07/2024
+Current version number is BETA 0.0.1 Last update: 30/07/2024
 
