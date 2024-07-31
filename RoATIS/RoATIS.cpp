@@ -13,8 +13,8 @@ int b, c;
 bool isKnown, isDefault;
 
 int main() {
-    int temp1;
     string temp2;
+    int temp1;
 
     // Banner
     cout << "  _____            _______ _____  _____ \n";
@@ -83,8 +83,8 @@ int main() {
         vis = "10 KM OR MORE";
         cout << "Visibility set to: " << vis << endl << endl;
     }
-    else if (temp1 < 10 && temp1 > 0) {
-        vis = temp1;
+    else if (temp1 < 10) {
+        vis = to_string(temp1);
     }
     else {
         cout << "Error! (0x0003)" << endl;
@@ -106,7 +106,7 @@ int main() {
             return 0;
         }
     }
-    //change before 1.0.1
+    //change before 2.0
     else {
         cout << "Your airport isn't in our database, you have to insert your runways manually"<< endl;
     }
