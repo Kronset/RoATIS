@@ -1,5 +1,4 @@
 # RoATIS
-
 > [!IMPORTANT]
 > RoATIS is in very early development stage!.
 
@@ -8,6 +7,9 @@
 # About
 RoATIS was created to make life easier for Roblox air traffic controllers! The program is currently in BETA version and provides only basic functions such as generating ATIS based on the provided data. However, it will be developed further and will include features such as detecting ICAO from a given game on Roblox, which will automatically add radio frequencies and runway numbers, as well as saving airport profiles.
 
+# Features
+-RoATIS was designed to allow you to provide greater immersion for other players in your session.
+-Are you annoyed that Roblox safe chat falsely censors your messages? RoATIS solves this problem by formatting messages so that Roblox does not flag them as offensive!
 # Contact
 
 Contact me on discord @kronset_
