@@ -16,4 +16,4 @@ Contact me on discord @kronset_
 
 # Version
 
-Current version is BETA 0.0.2 Last updated 31.07.2024
+Current version is BETA 0.0.4 Last updated 31.07.2024
