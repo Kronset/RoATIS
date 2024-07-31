@@ -23,7 +23,7 @@ int main() {
     cout << " |  _  // _ \\ / /\\ \\ | |    | |  \\___ \\ \n";
     cout << " | | \\ \\ (_) / ____ \\| |   _| |_ ____) |\n";
     cout << " |_|  \\_\\___/_/    \\_\\_|  |_____|_____/ \n" << endl;
-    cout << ">> Welcome in RoATIS!" << endl << ">> Application Version 0.0.1!" << endl << ">> Made by kronset_" << endl << ">> Follow me on github https://github.com/Kronset!\n" << endl;
+    cout << ">> Welcome in RoATIS!" << endl << ">> Application Version 0.0.2!" << endl << ">> Made by kronset_" << endl << ">> Follow me on github https://github.com/Kronset!\n" << endl;
 
     // Input airport ICAO code
     cout << "What's your airport ICAO code?" << endl << ">> ";
@@ -120,5 +120,6 @@ int main() {
     cin >> inf;
     cout << "Generated ATIS: " << endl;
     cout << "THIS IS " << a << " INFROMATION " << inf << " WIND " << c << " KTS " << "HEADING " << direct << " VISIBILITY " << vis << " KM " << "EXPECT APPROACH TO RUNWAY " << arr << " ON INITIAL CONTACT ADVICE " << inf << " ON BOARD " << a << " OUT ";
+    system("PAUSE");
     return 0;
 }

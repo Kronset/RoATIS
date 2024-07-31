@@ -31,9 +31,6 @@
     <Image Include="logo.ico">
       <Filter>Pliki zasobów</Filter>
     </Image>
-    <Image Include="..\..\..\..\Downloads\nigger.ico">
-      <Filter>Pliki zasobów</Filter>
-    </Image>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="RoATIS.rc">

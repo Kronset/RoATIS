@@ -134,7 +134,6 @@
     <ClInclude Include="resource1.h" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Downloads\nigger.ico" />
     <Image Include="logo.ico" />
   </ItemGroup>
   <ItemGroup>
